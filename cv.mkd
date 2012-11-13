@@ -10,17 +10,22 @@ Vaga
 >###Características Pessoais
 >Desenvolvedor Web desde 2005; Proativo; Gosto por desafios; Busca constante por tendências e novidades; Adaptabilidade a ambientes; Comprometimento; Facilidade para aprender e passar conhecimento;
 
-
 ## Projetos.
  
 ### CMS Django 
-trabalhando em uma empresa de desenvolvimento de sites e aplicativos pra web, fui arquiteto de uma solução > de cms desenvolvida em Django, o projeto propunha a criação de sites, de forma mais rápida aproveitando à arquitetura do django > plug em play, utilizando Django e bancos de dados não relacionais Mongodb.
+trabalhando em uma empresa de desenvolvimento de sites e aplicativos pra web, fui arquiteto de uma solução 
+de cms desenvolvida em Django, 
+o projeto propunha a criação de sites, de forma mais rápida aproveitando à arquitetura do django  
+plug em play, utilizando Django e bancos de dados não relacionais Mongodb.
 
 ### Sistema Mudar 
-Sistema desenvolvido a imobiliárias com o intuito de gerenciar os imóveis cadastrados e proporcionar ao >cliente uma busca inteligente aos usuários do site e aos corretores. Projeto desenvolvido em Django e Postgres.
+Sistema desenvolvido a imobiliárias com o intuito de gerenciar os imóveis cadastrados e proporcionar aos 
+clientes usuários do site, e aos corretores. Projeto desenvolvido em Django e Postgres.
 
 ### Fluxo de Documentos 
-Sistema desenvolvido para Defensoria Publica do Estado do Tocantins, o sistema proporciona um controle dos processos gerenciados pela defensoria, com informações e histórico do fluxo ou caminho do processo.
+Sistema desenvolvido para Defensoria Publica do Estado do Tocantins, 
+o sistema proporciona um controle dos processos gerenciados pela defensoria, 
+com informações e histórico do fluxo ou caminho do processo.
 
 ## Conhecimentos
 
