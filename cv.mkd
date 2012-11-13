@@ -1,15 +1,12 @@
 Vaga
-====
-
-Área de Plataformas Sociais
+	
+	Área de Entretenimento , Área de Home
 
 CV
-==
 
-https://docs.google.com/document/d/1bj-5PuuGPduvR4XSl-tJ467tVfoDHys-IDBJUe4tPNM/edit
-
-PS
-==
-
-Se Puder Gostaria de Concorrer as Duas Vagas, 1 - Área de Entretenimento, 2 - Área de Plataformas Sociais, Acho que posso ser aproveitado em qualquer uma das vagas.
-
+> ## Projetos.
+> 
+>> CMS Django, trabalhando em uma empresa de desenvolvimento de sites e aplicativos pra web, fui arquiteto de uma solução de 
+> cms desenvolvida em Django, o projeto propunha a criação de sites, de forma mais rápida aproveitando à arquitetura do django de > plug em play, utilizando Django e bancos de dados não relacionais Mongodb.
+>
+>> , 
